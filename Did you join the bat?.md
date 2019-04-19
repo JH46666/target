@@ -13,4 +13,12 @@
 2019  4.7  false
 2019  4.8  false
 2019  4.9  false
-2019  4.10  false
+2019  4.11  false
+2019  4.12  false
+2019  4.13  false
+2019  4.14  false
+2019  4.15  false
+2019  4.16  false
+2019  4.17  false
+2019  4.18  false
+2019  4.19  false
