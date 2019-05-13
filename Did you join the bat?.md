@@ -40,3 +40,8 @@
 2019  5.5  false
 2019  5.6  false
 2019  5.7  false
+2019  5.8  false
+2019  5.9  false
+2019  5.10  false
+2019  5.11  false
+2019  5.12 false
