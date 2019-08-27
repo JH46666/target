@@ -121,5 +121,32 @@
 2019  7.27 false
 2019  7.28 false
 2019  7.29 false
-
-
+2019  7.30 false
+2019  7.31 false
+2019  8.1 false
+2019  8.2 false
+2019  8.3 false
+2019  8.4 false
+2019  8.5 false
+2019  8.5 false
+2019  8.6 false
+2019  8.7 false
+2019  8.8 false
+2019  8.9 false
+2019  8.10 false
+2019  8.11 false
+2019  8.12 false
+2019  8.13 false
+2019  8.14 false
+2019  8.15 false
+2019  8.16 false
+2019  8.17 false
+2019  8.18 false
+2019  8.19 false
+2019  8.20 false
+2019  8.21 false
+2019  8.22 false
+2019  8.23 false
+2019  8.24 false
+2019  8.25 false
+2019  8.26 false
