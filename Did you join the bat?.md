@@ -150,3 +150,10 @@
 2019  8.24 false
 2019  8.25 false
 2019  8.26 false
+2019  8.27 false
+2019  8.28 false
+2019  8.29 false
+2019  8.30 false
+2019  8.31 false
+2019  9.1 false
+2019  9.2 false
